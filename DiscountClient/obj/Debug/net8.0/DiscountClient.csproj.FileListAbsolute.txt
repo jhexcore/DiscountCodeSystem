@@ -1,0 +1,14 @@
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\bin\Debug\net8.0\DiscountClient.exe
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\bin\Debug\net8.0\DiscountClient.deps.json
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\bin\Debug\net8.0\DiscountClient.runtimeconfig.json
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\bin\Debug\net8.0\DiscountClient.dll
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\bin\Debug\net8.0\DiscountClient.pdb
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\DiscountClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\DiscountClient.AssemblyInfoInputs.cache
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\DiscountClient.AssemblyInfo.cs
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\DiscountClient.csproj.CoreCompileInputs.cache
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\DiscountClient.dll
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\refint\DiscountClient.dll
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\DiscountClient.pdb
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\DiscountClient.genruntimeconfig.cache
+C:\Users\pbunjan\Downloads\DiscountCodeSystem\DiscountClient\obj\Debug\net8.0\ref\DiscountClient.dll
