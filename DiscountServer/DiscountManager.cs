@@ -82,7 +82,7 @@ namespace DiscountServer
 
         private static string GenerateRandomCode(int length, Random random)
         {
-            const string chars = "ABCDEFGHJKLMNPQRSTUVWXYZ1F23456789";
+            const string chars = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
             Span<char> buffer = stackalloc char[length];
             for (int i = 0; i < length; i++)
             {
